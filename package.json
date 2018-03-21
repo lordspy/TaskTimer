@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "auth0-js": "^9.2.3",
+    "auth0-js": "^9.3.3",
     "bootstrap": "^3.3.7",
     "location": "0.0.1",
     "navigator": "^1.0.1",
